@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @justsomexanda
+- 👀 I’m interested in PHP, VueJS
+- 🌱 I’m currently learning native dev with Quasar
+- 📫 How to reach me justsomexandaofficial@gmail.com
