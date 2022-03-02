@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @justsomexanda
-- 👀 I’m interested in PHP, VueJS
-- 🌱 I’m currently learning native dev with Quasar
+- 👋 Hi, I’m Alex
+- 👀 I’m interested in Laravel (PHP), Vue (JS)
+- 🌱 I’m currently the main developer at creating a streaming-platform
 - 📫 How to reach me justsomexandaofficial@gmail.com
