@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Alex
+- 👋 Hi, I’m Fabian
 - 👀 I’m interested in Laravel (PHP), Vue (JS)
 - 🌱 I’m currently the main developer at creating a streaming-platform
 - 📫 How to reach me justsomexandaofficial@gmail.com
